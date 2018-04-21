@@ -1,0 +1,6 @@
+c:\users\den\documents\visual studio 2015\Projects\module21\module21\bin\Debug\module21.exe.config
+c:\users\den\documents\visual studio 2015\Projects\module21\module21\bin\Debug\module21.exe
+c:\users\den\documents\visual studio 2015\Projects\module21\module21\bin\Debug\module21.pdb
+c:\users\den\documents\visual studio 2015\Projects\module21\module21\obj\Debug\module21.csprojResolveAssemblyReference.cache
+c:\users\den\documents\visual studio 2015\Projects\module21\module21\obj\Debug\module21.exe
+c:\users\den\documents\visual studio 2015\Projects\module21\module21\obj\Debug\module21.pdb
